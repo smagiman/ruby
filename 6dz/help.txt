@@ -1,0 +1,19 @@
+It`s a very difficult game
+
+You can create traffic lights, roads, cars and of course bicycles, but they don`t care for traffic lights, they are immortal
+
+traffic lights always become broken and this is a problem, because when there are 2 cars on light and it is broken you can`t avoid an accident.
+
+That`s all the rules, you just put things on road and wait, it is so nice to be a God
+
+commands:
+
+make road
+make car 
+make bicycle
+make traffic light
+
+restart: start all over
+audit: check how things going
+exit: if you tired
+help: for checking me again, but i never change
