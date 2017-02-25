@@ -16,7 +16,7 @@ class Car < Vehicle
 			@location = 1
 		else
 			puts "I guess i cant drive"
-		end
+	end
 	end
 end
 
