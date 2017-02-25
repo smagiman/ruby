@@ -1,0 +1,3 @@
+[submodule "7dz"]
+	path = 7dz
+	url = https://git.heroku.com/cookiesforfriends.git
